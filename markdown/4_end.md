@@ -1,6 +1,6 @@
 # TP
 
-![Preview](/ressources/preview.png)
+![Preview](https://raw.githubusercontent.com/mcaboche/presentation-html5/gh-pages/ressources/preview.png)
 
 
 # Ressources utiles :
